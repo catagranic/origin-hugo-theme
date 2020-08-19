@@ -1,0 +1,10 @@
+languageCode = "en-us"
+title = "Catugo"
+baseURL = "https://catagranic.github.io/origin/"
+canonifyURLs = true
+theme = "origin"
+publishDir = "docs"
+
+[params]
+  description = "Lorem Ipsum is simply ***dummy*** text of the ***printing*** and ***typesetting*** industry."
+  codePenUser = "Heydon"
